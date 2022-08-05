@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CVI_RNApp</string>
+    <string name="appCenterCrashes_whenToSendCrashes" moduleConfig="true" translatable="false">DO_NOT_ASK_JAVASCRIPT</string>
+    <string name="appCenterAnalytics_whenToEnableAnalytics" moduleConfig="true" translatable="false">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">szzgJq5oa84GYHqfu8i0IuxJAF0qL-AP5vd4w</string>
+</resources>

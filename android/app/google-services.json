@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "668438718682",
+    "project_id": "cvi-rnapp",
+    "storage_bucket": "cvi-rnapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668438718682:android:7b8e38e0a760123ecb9de3",
+        "android_client_info": {
+          "package_name": "io.chaptervi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668438718682-7aq777ho2d8ot84i3gcnud5165hvoe5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.chaptervi.app",
+            "certificate_hash": "0f37bae425c7683749bac55aa1c0c02e1aa7caa8"
+          }
+        },
+        {
+          "client_id": "668438718682-85kare0fvvlgces70phr7njqd9s28mjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZyxl9UcYFB6vW7t0cT63GAzzHUQYZxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668438718682-85kare0fvvlgces70phr7njqd9s28mjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668438718682-53utv5ij9evno6kbm18glint5egqfmv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascentis.CVI-RNApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668438718682:android:6197b5c80a030be7cb9de3",
+        "android_client_info": {
+          "package_name": "io.chaptervi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668438718682-6q9bim397sjivr2mn858f6e1vdd3vien.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.chaptervi.app",
+            "certificate_hash": "0f37bae425c7683749bac55aa1c0c02e1aa7caa8"
+          }
+        },
+        {
+          "client_id": "668438718682-85kare0fvvlgces70phr7njqd9s28mjt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkZyxl9UcYFB6vW7t0cT63GAzzHUQYZxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668438718682-85kare0fvvlgces70phr7njqd9s28mjt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "668438718682-53utv5ij9evno6kbm18glint5egqfmv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ascentis.CVI-RNApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

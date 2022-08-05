@@ -1,0 +1,67 @@
+{
+  "SPLASH": {
+    "LOGO": "第六章"
+  },
+  "WELCOME": {
+    "TITLE": "欢迎您！",
+    "SIGNUP_BUTTON": "注册",
+    "LOGIN_BUTTON": "登录",
+    "ITEM_TITLE": "物品 {{number}}",
+    "ITEM_TEXT": "文本 {{number}}"
+  },
+  "LOGIN": {
+    "TITLE": "欢迎！",
+    "FORGOT_PASSOWRD": "忘记密码？",
+    "NEXT_BUTTON": "登录"
+  },
+  "SIGNUP": {
+    "TITLE": "欢迎！",
+    "CHECKBOX_TEXT": "我接受",
+    "TERMS_TEXT": "条款和条件",
+    "ALERT_TITLE": "仔细检查这是您的号码！",
+    "ALERT_ERROR": "如果不是您的号码，您将错过奖励",
+    "ALERT_CONFIRM_BUTTON": "是的",
+    "ALERT_CANCEL_BUTTON": "不",
+    "NEXT_BUTTON": "注册"
+  },
+  "BASIC_DETAILS": {
+    "TITLE": "欢迎！",
+    "DISPLAY_NAME": "显示名称",
+    "NAME_PLACEHOLDER": "输入名字",
+    "SELECT_COUNTRY": "选择国家",
+    "NEXT_BUTTON": "下一个"
+  },
+  "CREATE_PASSWORD": {
+    "TITLE": "欢迎！",
+    "ENTER_PASSWORD": "输入您的密码",
+    "REPEAT_PASSWORD": "重复输入密码",
+    "PASS_1": "8个字符或更多",
+    "PASS_2": "大写和小写字母的混合",
+    "PASS_3": "包含至少 1 个数字",
+    "NEXT_BUTTON": "完全的"
+  },
+  "SIGNUP_COMPLETE": {
+    "TITLE": "恭喜！",
+    "SUCCESS_MESSAGE": "享受更完整的定制体验！",
+    "OR_SKIP_TEXT": "或稍后填写",
+    "CONTINUE_BUTTON": "继续",
+    "SKIP_BUTTON": "跳过"
+  },
+  "HOME": {
+    "WELCOME_TEXT": "你好！{{username}}，欢迎回来",
+    "HOME_SLIDER_TITLE": "活动、广告",
+    "HOME_SLIDER_TEXT": "如果没有则隐藏",
+    "SCAN_ICON_TEXT": "扫描",
+    "NEARBY_ICON_TEXT": "附近",
+    "SEARCH_ICON_TEXT": "搜索",
+    "FOOD_ICON_TEXT": "食物",
+    "FASHION_ICON_TEXT": "时尚",
+    "BEAUTY_ICON_TEXT": "美丽",
+    "ELECTRONICS_ICON_TEXT": "电子产品",
+    "MORE_ICON_TEXT": "更多的",
+    "NEAR_YOU": "在你旁边",
+    "TOP_STAMPS": "顶级邮票",
+    "TOP_VOUCHERS": "顶级优惠券",
+    "RECOMMANDED_FOR_YOU": "为您推荐"
+  }
+}

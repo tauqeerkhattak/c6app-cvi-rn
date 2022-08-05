@@ -1,0 +1,67 @@
+{
+  "SPLASH": {
+    "LOGO": "ChapterVI"
+  },
+  "WELCOME": {
+    "TITLE": "Welcome!",
+    "SIGNUP_BUTTON": "Signup",
+    "LOGIN_BUTTON": "Login",
+    "ITEM_TITLE": "Item {{number}}",
+    "ITEM_TEXT": "Text {{number}}"
+  },
+  "LOGIN": {
+    "TITLE": "Welcome!",
+    "FORGOT_PASSOWRD": "Forgot Password?",
+    "NEXT_BUTTON": "Login"
+  },
+  "SIGNUP": {
+    "TITLE": "Welcome!",
+    "CHECKBOX_TEXT": "I accept the",
+    "TERMS_TEXT": "Terms & Conditions",
+    "ALERT_TITLE": "Double check that this is your number!",
+    "ALERT_ERROR": "If its not your number you will miss out the rewards",
+    "ALERT_CONFIRM_BUTTON": "Yes",
+    "ALERT_CANCEL_BUTTON": "No",
+    "NEXT_BUTTON": "Signup"
+  },
+  "BASIC_DETAILS": {
+    "TITLE": "Welcome!",
+    "DISPLAY_NAME": "Display Name",
+    "NAME_PLACEHOLDER": "Enter Name",
+    "SELECT_COUNTRY": "Choose Country",
+    "NEXT_BUTTON": "Next"
+  },
+  "CREATE_PASSWORD": {
+    "TITLE": "Welcome!",
+    "ENTER_PASSWORD": "Enter your password",
+    "REPEAT_PASSWORD": "Repeat Password",
+    "PASS_1": "8 characters or more",
+    "PASS_2": "Mix of uppercase and lowercase letters",
+    "PASS_3": "Contains at-least 1 number",
+    "NEXT_BUTTON": "Complete"
+  },
+  "SIGNUP_COMPLETE": {
+    "TITLE": "Congratulations!",
+    "SUCCESS_MESSAGE": "Enjoy a more complete customized experience!",
+    "OR_SKIP_TEXT": "or fill out later",
+    "CONTINUE_BUTTON": "Continue",
+    "SKIP_BUTTON": "Skip"
+  },
+  "HOME": {
+    "WELCOME_TEXT": "Hi! {{username}}, Welcome Back",
+    "HOME_SLIDER_TITLE": "Event, Ads",
+    "HOME_SLIDER_TEXT": "Hide if none",
+    "SCAN_ICON_TEXT": "Scan",
+    "NEARBY_ICON_TEXT": "Nearby",
+    "SEARCH_ICON_TEXT": "Search",
+    "FOOD_ICON_TEXT": "Food",
+    "FASHION_ICON_TEXT": "Fashion",
+    "BEAUTY_ICON_TEXT": "Beauty",
+    "ELECTRONICS_ICON_TEXT": "Electronics",
+    "MORE_ICON_TEXT": "More",
+    "NEAR_YOU": "Near You",
+    "TOP_STAMPS": "Top Stamps",
+    "TOP_VOUCHERS": "Top Vouchers",
+    "RECOMMANDED_FOR_YOU": "Recommend for You"
+  }
+}
